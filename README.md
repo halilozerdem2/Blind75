@@ -2,99 +2,178 @@
 
 Blind 75 is a list of 75 coding interview questions that are commonly asked by top tech companies like Google, Amazon, Microsoft, Meta, etc. This list is designed to help candidates prepare for technical interviews by covering a range of important topics like Array, String, Linked List, Tree, Graph, Dynamic Programming, etc.
 
-I will solve and share these coding exercises over time.
+I will solve and share these coding exercises over tim.
 
-Array
-Two Sum
-Stock Buy and Sell – Max One Transaction Allowed
-Check if Array Contains Duplicates
-Product Array Puzzle
-Maximum Subarray Sum
-Maximum Product Subarray
-Minimum in Sorted and Rotated Array
-Search in Sorted and Rotated Array
-Find All Triplets With Given Sum
-Container With Most Water
-Binary
+Arrays
 
-Sum of Two Numbers Without Using Arithmetic Operators
-Number of 1 Bits
-Counting Bits
-Missing in Array
-Reverse Bits
+1. Two Sum
+
+2. Best Time to Buy and Sell Stock
+
+3. Contains Duplicate
+
+4. Product of Array Except Self
+
+5. Maximum Subarray
+
+6. Maximum Product Subarray
+
+7. Find Minimum in Rotated Sorted Array
+
+8. Search in Rotated Sorted Array
+
+9. 3Sum
+
+10. Container With Most Water
+
+
+Strings
+
+11. Longest Substring Without Repeating Characters
+
+12. Longest Repeating Character Replacement
+
+13. Valid Anagram
+
+14. Group Anagrams
+
+15. Valid Parentheses
+
+16. Longest Palindromic Substring
+
+17. Palindromic Substrings
+
+18. Encode and Decode Strings
+
+
+Linked Lists
+
+19. Merge Two Sorted Lists
+
+20. Reverse Linked List
+
+21. Linked List Cycle
+
+22. Merge k Sorted Lists
+
+23. Remove Nth Node From End of List
+
+24. Reorder List
+
+
+Trees
+
+25. Maximum Depth of Binary Tree
+
+26. Same Tree
+
+27. Invert Binary Tree
+
+28. Binary Tree Maximum Path Sum
+
+29. Binary Tree Level Order Traversal
+
+30. Serialize and Deserialize Binary Tree
+
+31. Subtree of Another Tree
+
+32. Construct Binary Tree from Preorder and Inorder Traversal
+
+33. Validate Binary Search Tree
+
+34. Kth Smallest Element in a BST
+
+35. Lowest Common Ancestor of a BST
+
+36. Implement Trie (Prefix Tree)
+
+Backtracking
+
+37. Subsets
+
+38. Combination Sum
+
+39. Permutations
+
+40. Word Search
+
+Graphs
+
+41. Number of Islands
+
+42. Clone Graph
+
+43. Course Schedule
+
+44. Pacific Atlantic Water Flow
+
+45. Number of Connected Components in an Undirected Graph
+
+46. Graph Valid Tree
+
+47. Word Ladder
+
 Dynamic Programming
 
-Climbing Stairs to Reach the Top
-Coin Change (Minimum Coins)
-Longest Increasing Subsequence
-Longest Common Subsequence
-Word Break
-Combination Sum
-Stickler Thief
-Stickler Thief II
-Total Decoding Messages
-Grid Unique Paths
-Jump Game
-Graph
+48. Climbing Stairs
 
-Clone an Undirected Graph
-Course Schedule
-Pacific Atlantic Water Flow
-Number of Islands
-Longest Consecutive Subsequence
-Alien Dictionary
-Graph is Tree or Not
-Connected Components in an Undirected Graph
-Interval
+49. Coin Change
 
-Insert Interval
-Overlapping Intervals
-Non-overlapping Intervals
-Meeting Rooms
-Meeting Rooms II
-Linked List
+50. Longest Increasing Subsequence
 
-Reverse a Linked List
-Detect Loop in Linked List
-Merge Two Sorted Linked Lists
-Merge K Sorted Linked Lists
-Kth from End of Linked List
-Reorder List
-Matrix
+51. Longest Common Subsequence
 
-Set Matrix Zeroes
-Spirally Traversing a Matrix
-Rotate Matrix
-Word Search
-String
+52. Word Break
 
-Longest Distinct Characters in String
-Longest Repeating Character Replacement
-Smallest Window in a String Containing All the Characters of Another String
-Anagram
-Parenthesis Checker
-Palindrome Sentence
-Longest Palindromic Substring
-Palindromic Substrings
-Encode and Decode Strings
-Tree
+53. Combination Sum IV
 
-Height of Binary Tree
-Identical Trees
-Mirror Tree
-Maximum Path Sum From Any Node
-Level Order Traversal
-Serialize and Deserialize a Binary Tree
-Check If Subtree
-Construct Tree from Inorder & Preorder
-Check for BST
-Kth Smallest Element in BST
-Lowest Common Ancestor in a BST
-Insert and Search in a Trie
-Add and Search Word
-Word Search II
-Heap
+54. House Robber
 
-Merge K Sorted Linked Lists
-Top K Frequent in Array
-Find Median in a Stream
+55. House Robber II
+
+56. Decode Ways
+
+57. Unique Paths
+
+58. Jump Game
+
+Intervals
+
+59. Insert Interval
+
+60. Merge Intervals
+
+61. Non-overlapping Intervals
+
+62. Meeting Rooms
+
+63. Meeting Rooms II
+
+Math & Geometry
+
+64. Rotate Image
+
+65. Spiral Matrix
+
+66. Set Matrix Zeroes
+
+67. Happy Number
+
+68. Plus One
+
+69. Pow(x, n)
+
+70. Multiply Strings
+
+71. Detect Capital
+
+Bit Manipulation
+
+72. Single Number
+
+73. Number of 1 Bits
+
+74. Counting Bits
+
+75. Reverse Bits
+

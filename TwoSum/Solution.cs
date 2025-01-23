@@ -30,7 +30,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 
 */
 
-public class TwoSum
+public class Solution
 {
     public int[] FindMatchingPair(int[] nums, int target)
     {
